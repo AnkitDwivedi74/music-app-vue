@@ -4,8 +4,8 @@ import "firebase/firestore";
 import "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBQOR_9LBX_FHl3rUboQSybM1YZcyA_Z-U",
-  authDomain: "music-app-d64a8.firebaseapp.com",
+  apiKey: "",
+  authDomain: "",
   projectId: "music-app-d64a8",
   storageBucket: "music-app-d64a8.appspot.com",
   messagingSenderId: "929684874091",
